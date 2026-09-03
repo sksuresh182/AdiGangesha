@@ -1,30 +1,24 @@
-# Adi Gangesha — Website
+# Adi Gangesha Website — Updated
 
-Domain: https://adigangesha.com
-Contact: +91 79965 555523
+Updated from the supplied Adi Gangesha website kit and requested content.
 
-## Pages
-- Home
-- About
-- Books
-- Courses
-- Retreats
-- Counselling
-- Blogs
-- Contact
+## Navigation
+About · Books · Courses · Retreats · Counselling · Blogs · Contact
 
-The previous Offerings page now redirects to Courses.
+## Added / updated
+- Supplied Adi Gangesha logo and refreshed favicon.
+- Updated brand tagline to `DHARMA | KARMA | Moksha`.
+- Updated contact email to `namaste@adigangesha.com`.
+- Replaced Offerings with Courses.
+- Added Courses, Retreats, Counselling, Books and Blogs pages.
+- Added detailed 2027 course and Shakti Flow retreat landing pages.
+- Added the two supplied blog articles as separate pages.
+- Added SEO metadata and Event schema for the two retreat pages.
+- Updated sitemap and robots.txt.
+- Responsive mobile navigation and premium navy/gold/red visual system.
 
-## Supplied assets
-- `assets/adi-gangesha-logo.jpg` — updated supplied logo
-- `assets/favicon.png` — favicon cropped from the supplied logo
-- `assets/book-exposing-illusion-of-death.jpg` — supplied book cover
-- `assets/book-5-pillars-of-lifestyle.jpg` — supplied book cover
+## Contact number note
+The request's first line says `+91 79965 555523`, while the supplied content repeatedly uses the 10-digit number `+91 79965 55523`. The website uses the repeated 10-digit number so WhatsApp/tel links remain correctly formatted. Please confirm if the extra `5` in the first instruction was intentional.
 
-## Notes
-- The requested About replacement content was not included in the supplied message, so the existing About copy has been retained.
-- No blog articles or purchase links were supplied, so the Blogs page is a ready placeholder and the Books page uses direct WhatsApp enquiries.
-- Course and retreat dates/locations shown on the site are exactly those supplied for the 2027 programme.
-
-## Header logo implementation
-The site header now uses a responsive SVG mark (`assets/logo-mark.svg`) beside a live HTML text wordmark, **Adi Gangesha**, set in Cormorant Garamond. The name is real selectable/searchable text rather than part of the JPEG logo. The SVG mark is derived from the supplied logo artwork and remains responsive across desktop and mobile breakpoints.
+## Deployment
+Upload the contents of this folder to the static host for `adigangesha.com`.
