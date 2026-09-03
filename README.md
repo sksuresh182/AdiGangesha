@@ -28,9 +28,3 @@ The previous Offerings page now redirects to Courses.
 
 ## Header logo implementation
 The site header now uses a responsive SVG mark (`assets/logo-mark.svg`) beside a live HTML text wordmark, **Adi Gangesha**, set in Cormorant Garamond. The name is real selectable/searchable text rather than part of the JPEG logo. The SVG mark is derived from the supplied logo artwork and remains responsive across desktop and mobile breakpoints.
-
-
-## Branding update
-- Site-wide palette now follows the supplied Adi Gangesha logo: deep navy, gold, and warm cream.
-- Header uses the responsive SVG logo mark with live “Adi Gangesha” text in Cormorant Garamond.
-- Terminology has been standardized to “Moksha” throughout editable site content.
