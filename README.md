@@ -1,11 +1,15 @@
-# Adi Gangesha Website — Final Updated
+# Adi Gangesha Website — Updated
 
-- Replaced Moksha with Moksha throughout the site.
-- Added About to the primary navigation.
-- Removed the pages directory; all HTML pages are at the site root.
-- Updated all relative paths after moving pages.
-- Replaced assets/adi-gangesha-logo.jpg with the newly supplied logo artwork.
-- Added the supplied Gangesha Adi profile photo to About.
-- Added the supplied Kumbhaka blog as blog-kumbhaka.html and linked it from Blogs.
-- Updated sitemap.xml for the root-level structure and new blog.
-- Preserved responsive navigation and shared styling.
+## Updates in this version
+
+- Updated the primary brand tagline to **Dharma | Karma | Moksha**.
+- Updated related branding copy and structured-data organization naming for consistency.
+- Added a responsive horizontal logo lockup with the **Adi Gangesha** name and **Dharma | Karma | Moksha** tagline.
+- Updated the header branding across all pages.
+- Updated the footer branding across all pages with the full logo and readable tagline.
+- Improved responsive behavior for desktop, tablet, and mobile layouts.
+- Added visual polish: refined spacing, hover states, focus states, cards, hero treatments, and footer styling.
+- Improved mobile navigation behavior and added a click-outside close interaction.
+- Added a reduced-motion fallback and an IntersectionObserver fallback so reveal animations do not hide content in unsupported browsers.
+- Kept the original `assets/adi-gangesha-logo.jpg` available for existing references and structured data.
+- Added `assets/adi-gangesha-logo-horizontal.jpg` for responsive header/footer presentation.
